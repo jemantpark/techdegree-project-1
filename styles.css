@@ -98,6 +98,10 @@ header .profile-image:hover {
   border-color: #00A2A5;
 }
 
+.closing-notes {
+  font-size: 30px;
+}
+
 ul.skills {
   padding: 0;
   text-align: center;
